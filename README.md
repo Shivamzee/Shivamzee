@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivamzee/Shivamzee/blob/main/GithubCover.png)
 <h1 align="center">Hello 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 

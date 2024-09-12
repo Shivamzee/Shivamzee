@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shivamzee/Shivamzee/blob/main/GithubCover.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5006&pause=1001&color=#000000&background=FFFFFF1D&center=true&vCenter=true&random=false&width=1000&height=85&lines=Hello+%F0%9F%91%8B%2C+I'm+Shivam+Sharma.;A+passionate+frontend+developer+from+India." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5006&pause=1001&color=36BCF7&background=FFFFFF1D&center=true&vCenter=true&random=false&width=1000&height=85&lines=Hello+%F0%9F%91%8B%2C+I'm+Shivam+Sharma.;A+passionate+frontend+developer+from+India." alt="Typing SVG" /></a>
 
 
 
